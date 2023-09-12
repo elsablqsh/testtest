@@ -1,3 +1,0 @@
-week01
-
-- basics of git & gitbash
